@@ -1,3 +1,4 @@
 raw/
 test/
 .DS_Store
+.env
