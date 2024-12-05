@@ -1,26 +1,39 @@
 # import and save NYC Jobs data from Open Data
+# %%
 
 import socrata
 from datetime import datetime
 import polars as pl
 
-if __name__ == '__main__':
-    old_db = pl.read_csv("database.csv")
+# %%
+def get_nyc_jobs():
+    """
+    Pull latest data from NYC jobs using the Socrata API and
+    add 'updated' column with date of download as YYYYMMDD.
+    """
 
-    print('NYC job postings active this week')
-    start_time = socrata.time.time()
+    date_string = datetime.now().strftime("%Y%m%d")
+
     od_df = socrata.socrata_api_query(
         dataset_id='pda4-rgn4', 
         timeout=300,
         limit=10000
         )
-    end_time = time.time()
-    len_sec = end_time - start_time
-    min_time = math.floor(len_sec / 60)
-    print(
-        f'Duration: {min_time} min'
-        f' {len_sec - min_time * 60:.4} sec'
-    )
+    
+    od_df = od_df.with_columns(pl.lit(date_string).alias("updated"))
+
+    return od_df
+
+# %%
+
+if __name__ == '__main__':
+    old_db = pl.read_csv("database.csv")
+
+    od_df = socrata.socrata_api_query(
+        dataset_id='pda4-rgn4', 
+        timeout=300,
+        limit=10000
+        )
     
     date_string = datetime.now().strftime("%Y%m%d")
 

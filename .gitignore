@@ -4,3 +4,4 @@ test/
 .env
 database.csv
 .vscode/
+.venv/
