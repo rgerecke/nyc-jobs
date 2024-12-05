@@ -2,3 +2,4 @@ raw/
 test/
 .DS_Store
 .env
+database.csv

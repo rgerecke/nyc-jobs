@@ -1,5 +1,6 @@
 # %%
-import pandas as pd
+# import pandas as pd
+import polars as pl
 import os
 from sodapy import Socrata
 from dotenv import load_dotenv
@@ -98,7 +99,7 @@ def socrata_api_query(
     client.timeout = timeout
     
     results = client.get(dataset_id, **params)
-    opendata_df = pd.DataFrame.from_records(results)
+    opendata_df = pl.from_records(results)
 
     end_time = time.time()
     len_time = end_time - start_time
