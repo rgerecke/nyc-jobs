@@ -54,7 +54,7 @@ def update_database(
 # %%
 
 if __name__ == '__main__':
-    old_db = pl.read_csv("database.csv", infer_schema=False)
+    old_db = pl.read_csv("/mnt/data/database/database.csv", infer_schema=False)
 
     new_df = get_nyc_jobs()
 
