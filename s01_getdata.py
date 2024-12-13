@@ -4,6 +4,7 @@
 import socrata
 from datetime import datetime
 import polars as pl
+import os
 
 # %%
 def get_nyc_jobs():
@@ -54,12 +55,19 @@ def update_database(
 # %%
 
 if __name__ == '__main__':
-    old_db = pl.read_csv("/mnt/data/database/database.csv", infer_schema=False)
+
+    if os.getenv("HOSTNAME") == 'local':
+        datapath = "database.csv"
+    else:
+        datapath = "/mnt/data/database/database.csv"
+
+
+    old_db = pl.read_csv(datapath, infer_schema=False)
 
     new_df = get_nyc_jobs()
 
     new_db = update_database(new_df, old_db)
 
-    new_db.write_csv("database.csv")
+    new_db.write_csv(datapath)
 
 
