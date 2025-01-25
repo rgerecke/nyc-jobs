@@ -20,20 +20,20 @@ df_mut = (
             .str.contains("Communications")
             .alias('comms')
     )
-        .sample(n=500,seed=47)
+        .sample(n=6000,seed=47)
 )
 
 df_mut.get_column('comms').value_counts()
 
 # %%
 
-data_tuples = df_mut.select(['job_description', 'comms']).rows()
-doc_bin = DocBin()
+# takes about 
+docs = list(nlp.pipe(df_mut.get_column('job_description').to_list()))
 
+for token in doc:
+    print(token.text, token.dep)
 
-
-# yo these guys are fucking dumb
-
-# df_mut = df.select(["job_id", "posting_type", "job_category"]).to_dummies(columns="job_category", separator=",")
+for ent in doc.ents:
+    print(ent.text, ent.label_)
 
 # %%

@@ -1,177 +1,194 @@
 job_category,count
-"Engineering, Architecture, & Planning",1074
-Health,461
-Legal Affairs,421
-Administration & Human Resources,401
-"Finance, Accounting, & Procurement",363
-Social Services,300
-Building Operations & Maintenance,295
-"Technology, Data & Innovation",294
-"Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",280
-"Public Safety, Inspections, & Enforcement",269
-Constituent Services & Community Programs,231
-"Policy, Research & Analysis",154
-"Constituent Services & Community Programs Health Policy, Research & Analysis",131
-Administration & Human Resources Social Services,123
-"Health Policy, Research & Analysis",113
-"Health Public Safety, Inspections, & Enforcement",112
-"Finance, Accounting, & Procurement Policy, Research & Analysis",94
-Communications & Intergovernmental Affairs,93
+"Engineering, Architecture, & Planning",1157
+Health,537
+Legal Affairs,497
+Administration & Human Resources,460
+"Finance, Accounting, & Procurement",406
+"Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",380
+Building Operations & Maintenance,365
+Social Services,332
+"Public Safety, Inspections, & Enforcement",328
+"Technology, Data & Innovation",323
+Constituent Services & Community Programs,291
+"Policy, Research & Analysis",172
+"Health Policy, Research & Analysis",141
+"Constituent Services & Community Programs Health Policy, Research & Analysis",133
+Administration & Human Resources Social Services,131
+"Health Public Safety, Inspections, & Enforcement",127
+"Finance, Accounting, & Procurement Policy, Research & Analysis",111
+Communications & Intergovernmental Affairs,103
 "Legal Affairs Public Safety, Inspections, & Enforcement",82
-"Engineering, Architecture, & Planning Policy, Research & Analysis",62
-Constituent Services & Community Programs Health,60
+"Engineering, Architecture, & Planning Policy, Research & Analysis",66
+Constituent Services & Community Programs Health,64
 Constituent Services & Community Programs Social Services,56
 "Technology, Data & Innovation Social Services",50
 "Health Technology, Data & Innovation",40
+"Building Operations & Maintenance Public Safety, Inspections, & Enforcement",35
 "Administration & Human Resources Policy, Research & Analysis",33
 Constituent Services & Community Programs Communications & Intergovernmental Affairs Social Services,31
-"Building Operations & Maintenance Public Safety, Inspections, & Enforcement",29
+"Administration & Human Resources Finance, Accounting, & Procurement",30
 "Engineering, Architecture, & Planning Policy, Research & Analysis Public Safety, Inspections, & Enforcement",28
-"Administration & Human Resources Finance, Accounting, & Procurement",28
+Health Social Services,26
+Administration & Human Resources Building Operations & Maintenance,26
 "Technology, Data & Innovation Legal Affairs Public Safety, Inspections, & Enforcement",23
-Administration & Human Resources Building Operations & Maintenance,22
+"Technology, Data & Innovation Policy, Research & Analysis",22
+"Constituent Services & Community Programs Engineering, Architecture, & Planning",20
+"Green Jobs Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",20
+"Finance, Accounting, & Procurement Health",20
 Legal Affairs Social Services,20
-"Technology, Data & Innovation Policy, Research & Analysis",20
-Health Social Services,18
-"Green Jobs Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",18
-"Finance, Accounting, & Procurement Health",18
+"Legal Affairs Policy, Research & Analysis",20
+Green Jobs,19
+Health Building Operations & Maintenance,18
+"Policy, Research & Analysis Social Services",18
+"Policy, Research & Analysis Public Safety, Inspections, & Enforcement",17
 Administration & Human Resources Legal Affairs,17
-Green Jobs,17
-Health Building Operations & Maintenance,16
-"Legal Affairs Policy, Research & Analysis",16
-"Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",16
 "Communications & Intergovernmental Affairs Technology, Data & Innovation",16
-"Constituent Services & Community Programs Engineering, Architecture, & Planning",16
-"Policy, Research & Analysis Public Safety, Inspections, & Enforcement",15
+"Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",16
+"Communications & Intergovernmental Affairs Policy, Research & Analysis",15
+Administration & Human Resources Constituent Services & Community Programs,15
 "Engineering, Architecture, & Planning Technology, Data & Innovation",14
-"Policy, Research & Analysis Social Services",14
-Administration & Human Resources Constituent Services & Community Programs,13
-"Constituent Services & Community Programs Public Safety, Inspections, & Enforcement",12
+"Green Jobs Engineering, Architecture, & Planning Policy, Research & Analysis",14
+"Finance, Accounting, & Procurement Social Services",12
 "Engineering, Architecture, & Planning Technology, Data & Innovation Policy, Research & Analysis",12
 "Engineering, Architecture, & Planning Finance, Accounting, & Procurement",12
-"Green Jobs Engineering, Architecture, & Planning Policy, Research & Analysis",12
 "Public Safety, Inspections, & Enforcement Social Services",12
-"Communications & Intergovernmental Affairs Policy, Research & Analysis",11
+"Constituent Services & Community Programs Public Safety, Inspections, & Enforcement",12
+Constituent Services & Community Programs Communications & Intergovernmental Affairs,11
 "Administration & Human Resources Engineering, Architecture, & Planning",10
+Constituent Services & Community Programs Health Social Services,10
+"Communications & Intergovernmental Affairs Finance, Accounting, & Procurement",10
 "Green Jobs Health Public Safety, Inspections, & Enforcement",8
-Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Social Services,8
-Administration & Human Resources Legal Affairs Social Services,8
-"Administration & Human Resources Technology, Data & Innovation",8
 Constituent Services & Community Programs Legal Affairs,8
+Health Legal Affairs,8
+"Administration & Human Resources Technology, Data & Innovation",8
+"Constituent Services & Community Programs Communications & Intergovernmental Affairs Policy, Research & Analysis Social Services",8
+Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Social Services,8
+"Technology, Data & Innovation Legal Affairs",8
 "Administration & Human Resources Finance, Accounting, & Procurement Policy, Research & Analysis",8
-Constituent Services & Community Programs Health Social Services,8
-"Communications & Intergovernmental Affairs Finance, Accounting, & Procurement",8
+Administration & Human Resources Legal Affairs Social Services,8
 "Engineering, Architecture, & Planning Building Operations & Maintenance",7
 "Communications & Intergovernmental Affairs Engineering, Architecture, & Planning",7
-"Engineering, Architecture, & Planning Health",6
-"Administration & Human Resources Policy, Research & Analysis Social Services",6
-Health Legal Affairs,6
-"Constituent Services & Community Programs Legal Affairs Public Safety, Inspections, & Enforcement Social Services",6
-Communications & Intergovernmental Affairs Social Services,6
-"Technology, Data & Innovation Legal Affairs",6
 "Constituent Services & Community Programs Health Legal Affairs Public Safety, Inspections, & Enforcement Social Services",6
-"Constituent Services & Community Programs Policy, Research & Analysis",6
-"Legal Affairs Public Safety, Inspections, & Enforcement Social Services",6
+"Constituent Services & Community Programs Communications & Intergovernmental Affairs Policy, Research & Analysis",6
+"Administration & Human Resources Policy, Research & Analysis Social Services",6
 "Administration & Human Resources Finance, Accounting, & Procurement Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",6
+"Constituent Services & Community Programs Legal Affairs Public Safety, Inspections, & Enforcement Social Services",6
+"Engineering, Architecture, & Planning Health",6
+"Administration & Human Resources Communications & Intergovernmental Affairs Policy, Research & Analysis",6
+Communications & Intergovernmental Affairs Social Services,6
+"Health Building Operations & Maintenance Public Safety, Inspections, & Enforcement",6
+"Legal Affairs Public Safety, Inspections, & Enforcement Social Services",6
+Administration & Human Resources Communications & Intergovernmental Affairs,6
 "Administration & Human Resources Constituent Services & Community Programs Technology, Data & Innovation Building Operations & Maintenance Policy, Research & Analysis",6
-"Constituent Services & Community Programs Communications & Intergovernmental Affairs Policy, Research & Analysis Social Services",6
-Constituent Services & Community Programs Communications & Intergovernmental Affairs,5
+"Constituent Services & Community Programs Policy, Research & Analysis",6
+Green Jobs Building Operations & Maintenance,5
 "Administration & Human Resources Public Safety, Inspections, & Enforcement",5
-Constituent Services & Community Programs Green Jobs Building Operations & Maintenance,4
-"Technology, Data & Innovation Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",4
-"Constituent Services & Community Programs Communications & Intergovernmental Affairs Policy, Research & Analysis",4
-"Administration & Human Resources Communications & Intergovernmental Affairs Policy, Research & Analysis",4
-"Green Jobs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",4
-Administration & Human Resources Green Jobs,4
-"Administration & Human Resources Health Policy, Research & Analysis",4
-"Green Jobs Engineering, Architecture, & Planning Policy, Research & Analysis Public Safety, Inspections, & Enforcement",4
-Communications & Intergovernmental Affairs Health,4
 "Green Jobs Policy, Research & Analysis",4
-"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Policy, Research & Analysis Social Services",4
-Building Operations & Maintenance Social Services,4
-Administration & Human Resources Communications & Intergovernmental Affairs,4
-"Administration & Human Resources Green Jobs Policy, Research & Analysis",4
-Constituent Services & Community Programs Legal Affairs Social Services,4
-"Finance, Accounting, & Procurement Social Services",4
-"Administration & Human Resources Technology, Data & Innovation Policy, Research & Analysis",4
-"Administration & Human Resources Technology, Data & Innovation Social Services",4
-"Technology, Data & Innovation Public Safety, Inspections, & Enforcement",4
-Green Jobs Social Services,4
-"Engineering, Architecture, & Planning Finance, Accounting, & Procurement Policy, Research & Analysis",4
+"Green Jobs Engineering, Architecture, & Planning",4
 "Technology, Data & Innovation Policy, Research & Analysis Public Safety, Inspections, & Enforcement",4
-"Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",4
-"Health Building Operations & Maintenance Public Safety, Inspections, & Enforcement",4
+"Green Jobs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",4
+"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Policy, Research & Analysis Social Services",4
+"Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",4
+Building Operations & Maintenance Social Services,4
+"Engineering, Architecture, & Planning Finance, Accounting, & Procurement Policy, Research & Analysis",4
+"Green Jobs Engineering, Architecture, & Planning Building Operations & Maintenance",4
+Constituent Services & Community Programs Legal Affairs Social Services,4
+"Administration & Human Resources Green Jobs Policy, Research & Analysis",4
 "Constituent Services & Community Programs Legal Affairs Policy, Research & Analysis",4
+Communications & Intergovernmental Affairs Health,4
+"Administration & Human Resources Health Policy, Research & Analysis",4
+"Administration & Human Resources Technology, Data & Innovation Policy, Research & Analysis",4
+"Technology, Data & Innovation Public Safety, Inspections, & Enforcement",4
+"Technology, Data & Innovation Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",4
+Green Jobs Social Services,4
+Administration & Human Resources Green Jobs,4
+"Green Jobs Engineering, Architecture, & Planning Policy, Research & Analysis Public Safety, Inspections, & Enforcement",4
+Constituent Services & Community Programs Green Jobs Building Operations & Maintenance,4
+"Administration & Human Resources Technology, Data & Innovation Social Services",4
+"Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",4
 "Administration & Human Resources Constituent Services & Community Programs Public Safety, Inspections, & Enforcement",4
+"Constituent Services & Community Programs Legal Affairs Public Safety, Inspections, & Enforcement",3
 "Finance, Accounting, & Procurement Technology, Data & Innovation",3
 "Engineering, Architecture, & Planning Building Operations & Maintenance Public Safety, Inspections, & Enforcement",3
-Green Jobs Building Operations & Maintenance,3
-"Constituent Services & Community Programs Legal Affairs Public Safety, Inspections, & Enforcement",3
-"Administration & Human Resources Legal Affairs Public Safety, Inspections, & Enforcement",2
-"Constituent Services & Community Programs Health Building Operations & Maintenance Public Safety, Inspections, & Enforcement",2
-"Constituent Services & Community Programs Communications & Intergovernmental Affairs Technology, Data & Innovation Public Safety, Inspections, & Enforcement Social Services",2
-"Constituent Services & Community Programs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-"Technology, Data & Innovation Policy, Research & Analysis Social Services",2
-"Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-"Constituent Services & Community Programs Building Operations & Maintenance Public Safety, Inspections, & Enforcement",2
-Administration & Human Resources Green Jobs Social Services,2
-"Constituent Services & Community Programs Green Jobs Public Safety, Inspections, & Enforcement",2
-"Communications & Intergovernmental Affairs Technology, Data & Innovation Policy, Research & Analysis Social Services",2
-"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Legal Affairs Public Safety, Inspections, & Enforcement Social Services",2
-"Green Jobs Technology, Data & Innovation",2
-"Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
-"Administration & Human Resources Finance, Accounting, & Procurement Social Services",2
-"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Technology, Data & Innovation Policy, Research & Analysis Social Services",2
 "Administration & Human Resources Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-"Constituent Services & Community Programs Communications & Intergovernmental Affairs Technology, Data & Innovation Policy, Research & Analysis Social Services",2
-"Administration & Human Resources Legal Affairs Policy, Research & Analysis",2
-"Administration & Human Resources Constituent Services & Community Programs Technology, Data & Innovation Building Operations & Maintenance",2
-"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Technology, Data & Innovation Social Services",2
-"Constituent Services & Community Programs Engineering, Architecture, & Planning Health Policy, Research & Analysis",2
-"Communications & Intergovernmental Affairs Technology, Data & Innovation Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-"Green Jobs Engineering, Architecture, & Planning",2
-"Administration & Human Resources Constituent Services & Community Programs Policy, Research & Analysis",2
-"Constituent Services & Community Programs Health Technology, Data & Innovation Policy, Research & Analysis",2
-"Green Jobs Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-"Building Operations & Maintenance Policy, Research & Analysis",2
-"Engineering, Architecture, & Planning Social Services",2
-"Administration & Human Resources Constituent Services & Community Programs Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",2
-"Administration & Human Resources Constituent Services & Community Programs Engineering, Architecture, & Planning Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-Communications & Intergovernmental Affairs Legal Affairs,2
-"Administration & Human Resources Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Public Safety, Inspections, & Enforcement",2
-"Constituent Services & Community Programs Communications & Intergovernmental Affairs Legal Affairs Public Safety, Inspections, & Enforcement",2
-"Constituent Services & Community Programs Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-Mental Health Health Legal Affairs,2
-"Constituent Services & Community Programs Finance, Accounting, & Procurement Legal Affairs",2
-"Finance, Accounting, & Procurement Legal Affairs Public Safety, Inspections, & Enforcement",2
-"Technology, Data & Innovation Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+"Communications & Intergovernmental Affairs Health Building Operations & Maintenance Public Safety, Inspections, & Enforcement",2
+"Administration & Human Resources Health Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Communications & Intergovernmental Affairs Engineering, Architecture, & Planning Policy, Research & Analysis Social Services",2
 Constituent Services & Community Programs Communications & Intergovernmental Affairs Legal Affairs Social Services,2
-"Administration & Human Resources Constituent Services & Community Programs Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",2
-"Constituent Services & Community Programs Technology, Data & Innovation Policy, Research & Analysis",2
-"Health Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-Constituent Services & Community Programs Health Legal Affairs Social Services,2
-"Administration & Human Resources Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",2
-"Green Jobs Public Safety, Inspections, & Enforcement",2
-"Constituent Services & Community Programs Finance, Accounting, & Procurement Policy, Research & Analysis",2
-"Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",2
+"Administration & Human Resources Green Jobs Communications & Intergovernmental Affairs Engineering, Architecture, & Planning Building Operations & Maintenance Public Safety, Inspections, & Enforcement",2
+"Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+Administration & Human Resources Green Jobs Communications & Intergovernmental Affairs Building Operations & Maintenance,2
 "Administration & Human Resources Constituent Services & Community Programs Finance, Accounting, & Procurement Policy, Research & Analysis",2
-"Green Jobs Building Operations & Maintenance Public Safety, Inspections, & Enforcement",2
+"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Technology, Data & Innovation Social Services",2
+"Administration & Human Resources Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",2
+"Administration & Human Resources Communications & Intergovernmental Affairs Finance, Accounting, & Procurement",2
+"Administration & Human Resources Finance, Accounting, & Procurement Public Safety, Inspections, & Enforcement",2
+"Building Operations & Maintenance Policy, Research & Analysis",2
+"Constituent Services & Community Programs Green Jobs Policy, Research & Analysis",2
+"Administration & Human Resources Constituent Services & Community Programs Policy, Research & Analysis",2
+"Communications & Intergovernmental Affairs Technology, Data & Innovation Policy, Research & Analysis Social Services",2
+"Administration & Human Resources Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Public Safety, Inspections, & Enforcement",2
+"Engineering, Architecture, & Planning Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Finance, Accounting, & Procurement Legal Affairs",2
+"Green Jobs Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Public Safety, Inspections, & Enforcement Social Services",2
+Constituent Services & Community Programs Green Jobs,2
+Constituent Services & Community Programs Health Legal Affairs Social Services,2
+"Finance, Accounting, & Procurement Technology, Data & Innovation Legal Affairs Policy, Research & Analysis",2
+"Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Administration & Human Resources Legal Affairs Public Safety, Inspections, & Enforcement",2
+"Administration & Human Resources Constituent Services & Community Programs Engineering, Architecture, & Planning Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis Social Services",2
+"Constituent Services & Community Programs Policy, Research & Analysis Social Services",2
+"Green Jobs Technology, Data & Innovation",2
 "Administration & Human Resources Constituent Services & Community Programs Engineering, Architecture, & Planning Policy, Research & Analysis Social Services",2
+"Constituent Services & Community Programs Health Technology, Data & Innovation Policy, Research & Analysis",2
+"Health Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Technology, Data & Innovation Policy, Research & Analysis",2
+"Constituent Services & Community Programs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Engineering, Architecture, & Planning Health Policy, Research & Analysis",2
+"Constituent Services & Community Programs Health Building Operations & Maintenance Public Safety, Inspections, & Enforcement",2
+"Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",2
+"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Administration & Human Resources Constituent Services & Community Programs Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",2
+Mental Health Health Legal Affairs,2
+"Constituent Services & Community Programs Finance, Accounting, & Procurement Policy, Research & Analysis",2
+"Finance, Accounting, & Procurement Technology, Data & Innovation Legal Affairs",2
+"Constituent Services & Community Programs Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Finance, Accounting, & Procurement Legal Affairs Public Safety, Inspections, & Enforcement",2
+"Administration & Human Resources Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Communications & Intergovernmental Affairs Technology, Data & Innovation Policy, Research & Analysis Social Services",2
+"Administration & Human Resources Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+"Technology, Data & Innovation Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+"Green Jobs Building Operations & Maintenance Public Safety, Inspections, & Enforcement",2
+"Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+"Technology, Data & Innovation Policy, Research & Analysis Social Services",2
+"Communications & Intergovernmental Affairs Technology, Data & Innovation Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Communications & Intergovernmental Affairs Technology, Data & Innovation Public Safety, Inspections, & Enforcement Social Services",2
+"Constituent Services & Community Programs Building Operations & Maintenance Public Safety, Inspections, & Enforcement",2
+"Administration & Human Resources Green Jobs Engineering, Architecture, & Planning Finance, Accounting, & Procurement Building Operations & Maintenance",2
+"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Technology, Data & Innovation Policy, Research & Analysis Social Services",2
+"Green Jobs Public Safety, Inspections, & Enforcement",2
+"Administration & Human Resources Constituent Services & Community Programs Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",2
+"Administration & Human Resources Communications & Intergovernmental Affairs Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+"Constituent Services & Community Programs Green Jobs Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
+"Engineering, Architecture, & Planning Social Services",2
+"Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs Legal Affairs Public Safety, Inspections, & Enforcement Social Services",2
+"Administration & Human Resources Finance, Accounting, & Procurement Social Services",2
+"Administration & Human Resources Finance, Accounting, & Procurement Health Policy, Research & Analysis",2
+"Constituent Services & Community Programs Communications & Intergovernmental Affairs Legal Affairs Public Safety, Inspections, & Enforcement",2
+Administration & Human Resources Green Jobs Social Services,2
 "Constituent Services & Community Programs Engineering, Architecture, & Planning Policy, Research & Analysis",2
 "Technology, Data & Innovation Building Operations & Maintenance",2
-Constituent Services & Community Programs Green Jobs,2
-"Engineering, Architecture, & Planning Building Operations & Maintenance Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-"Administration & Human Resources Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
-"Administration & Human Resources Finance, Accounting, & Procurement Technology, Data & Innovation Policy, Research & Analysis",2
-"Constituent Services & Community Programs Communications & Intergovernmental Affairs Engineering, Architecture, & Planning Policy, Research & Analysis Social Services",2
-"Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+"Administration & Human Resources Legal Affairs Policy, Research & Analysis",2
 "Finance, Accounting, & Procurement Legal Affairs",2
-"Constituent Services & Community Programs Policy, Research & Analysis Social Services",2
-"Administration & Human Resources Health Public Safety, Inspections, & Enforcement",2
+"Constituent Services & Community Programs Green Jobs Public Safety, Inspections, & Enforcement",2
+Constituent Services & Community Programs Building Operations & Maintenance,2
 Communications & Intergovernmental Affairs Building Operations & Maintenance,2
-"Administration & Human Resources Communications & Intergovernmental Affairs Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",2
-"Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis Social Services",2
-"Constituent Services & Community Programs Communications & Intergovernmental Affairs Legal Affairs Policy, Research & Analysis Public Safety, Inspections, & Enforcement Social Services",2
+Communications & Intergovernmental Affairs Legal Affairs,2
+"Technology, Data & Innovation Legal Affairs Policy, Research & Analysis",2
+"Administration & Human Resources Constituent Services & Community Programs Technology, Data & Innovation Building Operations & Maintenance",2
 "Constituent Services & Community Programs Communications & Intergovernmental Affairs Public Safety, Inspections, & Enforcement",2
 "Administration & Human Resources Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",2
 "Constituent Services & Community Programs Health Policy, Research & Analysis Social Services",2
@@ -183,7 +200,6 @@ Administration & Human Resources Constituent Services & Community Programs Healt
 "Communications & Intergovernmental Affairs Legal Affairs Public Safety, Inspections, & Enforcement",2
 "Communications & Intergovernmental Affairs Finance, Accounting, & Procurement Legal Affairs Policy, Research & Analysis",2
 "Administration & Human Resources Communications & Intergovernmental Affairs Engineering, Architecture, & Planning Health Policy, Research & Analysis Public Safety, Inspections, & Enforcement",1
-Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs,1
 "Constituent Services & Community Programs Engineering, Architecture, & Planning Public Safety, Inspections, & Enforcement",1
-Constituent Services & Community Programs Building Operations & Maintenance,1
+Administration & Human Resources Constituent Services & Community Programs Communications & Intergovernmental Affairs,1
 "Constituent Services & Community Programs Health Public Safety, Inspections, & Enforcement",1

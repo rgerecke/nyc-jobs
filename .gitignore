@@ -6,3 +6,4 @@ database.csv
 .vscode/
 .venv/
 *.jsonl
+test.ipynb
