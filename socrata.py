@@ -3,11 +3,9 @@
 import polars as pl
 import os
 from sodapy import Socrata
-from dotenv import load_dotenv
 import time
 import math
 
-load_dotenv()
 
 def socrata_api_query(
     dataset_id: 'str',
