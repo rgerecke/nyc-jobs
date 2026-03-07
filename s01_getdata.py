@@ -56,7 +56,7 @@ def update_database(
 
 if __name__ == '__main__':
 
-    if os.getenv("HOSTNAME") == 'local':
+    if (os.getenv("HOSTNAME") == 'local') | (os.getenv("HOSTNAME") is None):
         datapath = "database.csv"
     else:
         datapath = "/mnt/data/database/database.csv"
